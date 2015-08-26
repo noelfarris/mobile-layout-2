@@ -64,6 +64,7 @@ img {
 	background-color: #344051;
 	padding-top: 155px;
 	background-image: url(images/crowd.jpg);
+	background-size: cover;
 }
 
 .create {
