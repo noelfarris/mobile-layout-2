@@ -58,20 +58,14 @@ img {
 	font-size: 14px;
 	font-family: sans-serif;
 	text-align: center;
-<<<<<<< HEAD
 	line-height: 30px;
-=======
->>>>>>> 885664a6d49afebeda2e00a8058952c3910dc0bf
 }
 	
 
 .top {
 	background-color: #344051;
 	padding-top: 155px;
-<<<<<<< HEAD
 	background-image: url(images/crowd.jpg);
-=======
->>>>>>> 885664a6d49afebeda2e00a8058952c3910dc0bf
 }
 
 .create {
@@ -94,11 +88,7 @@ img {
 }
 
 .box {
-<<<<<<< HEAD
-	background-color: rgba(21, 29, 34, 0.4);;
-=======
-	background-color: #212934;
->>>>>>> 885664a6d49afebeda2e00a8058952c3910dc0bf
+	background-color: rgba(21, 29, 34, 0.4);
 	width: 232px;
 	padding: 10px;
 	margin-right: auto;
@@ -122,7 +112,6 @@ img {
 }
 
 .tiny {
-<<<<<<< HEAD
 	display: block;
 	margin-bottom: 147px;
 	color: white;
@@ -133,19 +122,6 @@ img {
 
 .low {
 	background-color: transparent;
-=======
-	background-color: #FFFFFF;
-	height: 25px;
-	width: 55px;
-	margin-left: auto;
-	margin-right: auto;
-	margin-bottom: 147px;
-}
-
-
-.low {
-	background-color: #344051;
->>>>>>> 885664a6d49afebeda2e00a8058952c3910dc0bf
 	height: 75px;
 	width: 332px;
 	margin-left: auto;
@@ -155,11 +131,7 @@ img {
 }
 
 .rlow {
-<<<<<<< HEAD
 	background-color: transparent;
-=======
-	background-color: #FFFFFF;
->>>>>>> 885664a6d49afebeda2e00a8058952c3910dc0bf
 	width: 52px;
 	height: 65px;
 	float: left;
@@ -167,11 +139,7 @@ img {
 }
 
 .llow {
-<<<<<<< HEAD
 	background-color: transparent;
-=======
-	background-color: #344051;
->>>>>>> 885664a6d49afebeda2e00a8058952c3910dc0bf
 	height: 65px;
 	width: 263px;
 	float: left;
@@ -238,7 +206,6 @@ img {
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 13px;
-<<<<<<< HEAD
 	border-radius: 50%;
 }
 
@@ -247,8 +214,6 @@ img {
 	height: 50%;
 	padding-left: 1.1em;
 	padding-top: 1em;
-=======
->>>>>>> 885664a6d49afebeda2e00a8058952c3910dc0bf
 }
 
 .sixmid {
@@ -317,10 +282,7 @@ p {
     font-size: 25px;
     text-align: center;
     font-family: sans-serif;
-<<<<<<< HEAD
     line-height: 57px;
-=======
->>>>>>> 885664a6d49afebeda2e00a8058952c3910dc0bf
 }
 
 
